@@ -12,7 +12,7 @@ The goal of this project is to demonstrate real-world data analysis skills inclu
 This project simulates how a data analyst works with raw transactional data to produce meaningful insights for decision-making.
 
 **Tools Used**
-**SQL (MySQL)**
+ **SQL (MySQL)**
 - Database creation
 - Table schema design
 - Data import and validation
@@ -37,7 +37,7 @@ The dataset contains Walmart sales transactions with 1000+ records and the follo
 Invoice ID, Branch, City, Customer Type, Gender, Product Line, Unit Price, Quantity, Tax, Total Sales, Date & Time, Payment Method, Cost of Goods Sold (COGS), Gross Income, Gross Margin Percentage, Customer Rating
 
 **Project Workflow**
-**1. Data Storage (SQL)**
+ **1. Data Storage (SQL)**
 - Created database and sales table
 - Imported transaction dataset
 - Verified row counts and structure
